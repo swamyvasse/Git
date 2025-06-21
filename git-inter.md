@@ -20,4 +20,6 @@ Github
 
 1. what is difference b/w centralized and decentralized?
 
+   
+
 
