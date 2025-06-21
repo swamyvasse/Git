@@ -18,3 +18,6 @@ Github
 1. create repo 
 2. clone into laptop 
 
+1. what is difference b/w centralized and decentralized?
+
+
